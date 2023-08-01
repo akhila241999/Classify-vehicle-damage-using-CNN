@@ -1,1 +1,1 @@
-# Classify-vehicle-damage-using-CNN
+I developed a customer friendly web application, wherein the customer has to just upload the photo of the damaged car, based on the photo uploaded by the user, the CNN algorithm classifies the nature of damage and predict the average cost towards repair
